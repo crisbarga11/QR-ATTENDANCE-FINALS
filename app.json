@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.junrel20.QRATT",
+      "package": "com.cristymae.qratt",
       "permissions": [
         "android.permission.CAMERA",
         "android.permission.RECORD_AUDIO"
